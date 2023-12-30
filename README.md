@@ -1,0 +1,1 @@
+# Display-text-in-Upper-and-Smaller-case-using-Binding-in-Angular
